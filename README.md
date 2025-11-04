@@ -5,7 +5,3 @@
 
 # 🗒️ingpo!
 Ya,ini storage berisi file/foto random ygy,gak usah di download foto²,bisa jadi foto wajah karbit cuma bikin habis kuota ae 🤭😹
-
-<audio controls>
-  <source src="https://files.catbox.moe/viig5a.mp3" type="audio/mpeg">
-</audio>
